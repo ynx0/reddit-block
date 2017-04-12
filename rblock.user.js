@@ -12,7 +12,7 @@
 
 (function() {
   'use strict';
-  window.location.replace('reddit.com/r/getoffreddit');
+  window.location = 'reddit.com/r/getoffreddit';
   
 })();
 
