@@ -12,8 +12,10 @@
 
 (function() {
   'use strict';
-  window.location = 'reddit.com/r/getoffreddit';
-  
+  var get_off = 'https://www.reddit.com/r/getoffreddit/';
+  if(window.location != get_off){
+    window.location = get_off;
+  }
 })();
 
 
