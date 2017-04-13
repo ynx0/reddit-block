@@ -2,7 +2,7 @@
 helps you get off of reddit
 
 ## Installation
-0. You need to have grease/tampermonkey for this to work
+0. You need to have greasemonkey [(firefox add-on link)](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or tampermonkey [(chrome webstore link)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for this to work
 1. go [here](https://greasyfork.org/en/scripts/28913-reddit-block)
 2. Click install
 3. ???
